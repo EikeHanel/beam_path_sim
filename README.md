@@ -20,8 +20,8 @@ Here is a screenshot of the program in action:
 Clone the repository and install dependencies:
 
 ```bash
-git clone <repository_url>
-cd <repository_name>
+git clone https://github.com/EikeHanel/beam_path_sim
+cd beam_path_sim
 pip install -r requirements.txt
 ```
 
